@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="76" started-at="2016-12-29T00:10:50Z" finished-at="2016-12-29T00:10:50Z">
+    <groups>
+      <group name="SUV">
+        <method signature="TestNG_Grouping.BMWX3()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="BMWX3" class="com.expedia.flightsbooking.TestNG_Grouping"/>
+      </group> <!-- SUV -->
+      <group name="Audi">
+        <method signature="TestNG_Grouping.AudiA6()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="AudiA6" class="com.expedia.flightsbooking.TestNG_Grouping"/>
+      </group> <!-- Audi -->
+      <group name="BMW">
+        <method signature="TestNG_Grouping.BMW3Series()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="BMW3Series" class="com.expedia.flightsbooking.TestNG_Grouping"/>
+        <method signature="TestNG_Grouping.BMWX3()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="BMWX3" class="com.expedia.flightsbooking.TestNG_Grouping"/>
+      </group> <!-- BMW -->
+      <group name="Sedan">
+        <method signature="TestNG_Grouping.AudiA6()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="AudiA6" class="com.expedia.flightsbooking.TestNG_Grouping"/>
+        <method signature="TestNG_Grouping.BMW3Series()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="BMW3Series" class="com.expedia.flightsbooking.TestNG_Grouping"/>
+        <method signature="TestNG_Grouping.HondaAccord()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="HondaAccord" class="com.expedia.flightsbooking.TestNG_Grouping"/>
+      </group> <!-- Sedan -->
+      <group name="Honda">
+        <method signature="TestNG_Grouping.HondaAccord()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="HondaAccord" class="com.expedia.flightsbooking.TestNG_Grouping"/>
+      </group> <!-- Honda -->
+    </groups>
+    <test name="ExpediaSearchPage" duration-ms="76" started-at="2016-12-29T00:10:50Z" finished-at="2016-12-29T00:10:50Z">
+      <class name="com.expedia.flightsbooking.TestNG_Grouping">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="beforeMethod" is-config="true" duration-ms="15" started-at="2016-12-28T19:10:50Z" finished-at="2016-12-28T19:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="AudiA6()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="AudiA6" duration-ms="2" started-at="2016-12-28T19:10:50Z" finished-at="2016-12-28T19:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AudiA6 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2016-12-28T19:10:50Z" finished-at="2016-12-28T19:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="BMW3Series()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="BMW3Series" duration-ms="1" started-at="2016-12-28T19:10:50Z" finished-at="2016-12-28T19:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMW3Series -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-12-28T19:10:50Z" finished-at="2016-12-28T19:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="BMWX3()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="BMWX3" duration-ms="0" started-at="2016-12-28T19:10:50Z" finished-at="2016-12-28T19:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BMWX3 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2016-12-28T19:10:50Z" finished-at="2016-12-28T19:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="HondaAccord()[pri:0, instance:com.expedia.flightsbooking.TestNG_Grouping@7a5d012c]" name="HondaAccord" duration-ms="0" started-at="2016-12-28T19:10:50Z" finished-at="2016-12-28T19:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HondaAccord -->
+      </class> <!-- com.expedia.flightsbooking.TestNG_Grouping -->
+    </test> <!-- ExpediaSearchPage -->
+  </suite> <!-- TestSuite -->
+</testng-results>
